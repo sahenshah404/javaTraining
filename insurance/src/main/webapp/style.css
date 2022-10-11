@@ -1,0 +1,71 @@
+@charset "ISO-8859-1";
+
+h1 {
+	color: brown;
+	text-align: center;
+}
+
+.login_container {
+	margin: auto;
+	text-align: center;
+	width: 350px;
+	height: 300px;
+	border: 2px solid black;
+}
+
+.center {
+	text-align: center;
+}
+
+.homepage button {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	width: 200px;
+	height: 40px;
+}
+
+.alert {
+	color: red;
+	font-size: large;
+}
+
+.warning {
+	color: #ff8080;
+	font-size: large;
+}
+
+.success {
+	color: green;
+	font-size: large;
+}
+
+form input, form select {
+	margin-top: 3px;
+	margin-bottom: 15px;
+	margin-left: 5px;
+	margin-right: 5px;
+}
+
+.policyQuesTable {
+	text-align: left;
+	margin: auto;
+}
+
+.policyQuesTable tr {
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+.centerTable {
+	margin: auto;
+}
+
+.designTable {
+	width: 70%;
+	border-collapse: collapse;
+	border: 1px solid black;
+}
+
+.designTable td{
+	border: 2px solid black;
+	}
